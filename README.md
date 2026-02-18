@@ -1,4 +1,4 @@
-# Automated Biometric Face Tracking System
+# Smart Biometric Face Recognition Tracker
 
 ## 📌 Project Overview
 The **Automated Biometric Face Tracking System** is an offline computer vision–based application designed to automate attendance tracking using facial recognition. The system captures live video through a webcam, detects faces in real time, recognizes registered individuals, and marks their attendance automatically in both CSV files and a MySQL database. The project is developed using Python and OpenCV and is suitable for academic institutions requiring a contactless and efficient attendance solution.
