@@ -17,7 +17,7 @@ The **Automated Biometric Face Tracking System** is an offline computer vision�
 ## 🛠️ Technologies Used
 - **Programming Language:** Python 3.13  
 - **Libraries:** OpenCV, NumPy, MySQL Connector  
-- **Database:** MySQL 8.0  
+- **Database:** MySQL 9.5 command line client 
 - **Face Detection:** Haar Cascade Classifier  
 - **Face Recognition:** LBPH (Local Binary Pattern Histogram)  
 - **Platform:** Windows OS  
